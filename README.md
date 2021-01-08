@@ -9,7 +9,7 @@ This application simulates a social media made for dogs.
 <br>
 
 <p>
-<img alt="License MIT" src="https://img.shields.io/github/license/lailton-b/dogs">
+<img alt="MIT License" src="https://img.shields.io/github/license/lailton-b/dogs">
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/lailton-b/dogs">
 </p>
 <br><br>
