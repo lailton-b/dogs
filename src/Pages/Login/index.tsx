@@ -25,6 +25,7 @@ const Login: React.FC = () => {
         { slug === 'perdeu' && <LostPasswordForm /> }
         { slug === 'criar' && <RegisterForm /> }
         { slug === 'login' && <LoginForm /> }
+        { slug === 'dogs' && <LoginForm /> }
         { slug === 'resetar' && <ResetPasswordForm /> }
       </RightSide>
     </Container>
